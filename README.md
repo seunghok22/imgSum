@@ -1,6 +1,6 @@
 ### 이 프로그램은 이미지를 여러장 입력받아 위 아래를 연결하는 기능을 한다.
  - 결과물의 형태는 아래 사진을 참고하라
- - 
+
 ![image](https://github.com/user-attachments/assets/91a193f4-89ac-4afb-940a-dee0377d561f)
 
 
